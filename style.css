@@ -1,0 +1,8 @@
+*{
+    background-color: #2D3250;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color:#DED0B6 ;
+}
